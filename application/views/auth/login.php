@@ -40,13 +40,13 @@
             <!-- /.login-logo -->
             <div class="login-box-body">
                 <div class="text-center">
-                    <img src="<?php echo base_url('assets/'); ?>images/LogoTPQ.png">
+                    <img src="<?php echo base_url('assets/'); ?>images/Logomts.png">
                 </div>
                 <h3 class="text-center mt-0">
                     <b>
                         <font color="green">S
                     </b>istem <b>A</b>bsensi <b>QR</b>code <br>
-                    <b>TPQ Al Fatih</font></b>
+                    <b>MTsN 23 Jakarta</font></b>
                 </h3>
                 <a href="<?= base_url('scan'); ?>" target="_BLANK"><b>Klik untuk scan absensi!</b></a>
                 <p class="login-box-msg"></p>
