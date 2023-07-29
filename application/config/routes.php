@@ -57,7 +57,7 @@ $route['logout'] = 'Auth/logout';
 
 // santri
 $route['tambah_santri'] = 'santri/create';
-$route['tambah_pengajar'] = 'pengajar/create';
+// $route['tambah_pengajar'] = 'pengajar/create';
 $route['tambah_kelompok'] = 'kelompok/create';
 $route['tambah_shift'] = 'shift/create';
 $route['tambah_shift'] = 'shift/create';

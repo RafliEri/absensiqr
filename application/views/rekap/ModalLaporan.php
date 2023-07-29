@@ -54,7 +54,7 @@ if ($this->uri->segment(3) == "S") {
                     <table style='margin-left:130px;'>
                         <tr>
                             <td style='padding:50px'>
-                                <img src="<?php echo base_url(); ?>assets/dist/img/logo.jpg" width='100px'></img>
+                                <img src="<?php echo base_url(); ?>assets/dist/img/logo1.png" width='180px'></img>
                             </td>
                             <td> <br>
                                 <p style='text-align: center;font-size:20px;'><b>
@@ -97,7 +97,7 @@ if ($this->uri->segment(3) == "S") {
                                 <th width='200px' rowspan="2">NAMA</th>
                                 <th width='150px' rowspan="2">JABATAN </th>
                                 <th width='70px' rowspan="2">Total Kehadiran </th>
-                                <th width='130px' colspan="3">Total Ketidakhadiran </th>
+                                <th width='130px' colspan="3">Total Ketidak hadiran </th>
                             </tr>
                             <tr style='background-color:#00ccff !important'>
                                 <th width='80px'>&nbsp; Sakit</th>

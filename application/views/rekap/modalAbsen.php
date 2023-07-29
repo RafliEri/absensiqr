@@ -87,7 +87,7 @@
                     <table style='margin-left:70px;'>
                         <tr>
                             <td style='padding:50px'>
-                                <img src="<?php echo base_url(); ?>assets/dist/img/logo.jpg" width='100px'></img>
+                                <img src="<?php echo base_url(); ?>assets/dist/img/logo1.png" width='180px'></img>
                             </td>
                             <td> <br>
                                 <p style='font-size:20px;text-align:center;'><b>
@@ -437,7 +437,7 @@
                 <b style="padding-left : 30px">S = SAKIT</b>&nbsp;&nbsp;&nbsp;
                 <b style="padding-left : 30px">I = IJIN</b>&nbsp;&nbsp;&nbsp;
                 <b style="padding-left : 30px">A = TANPA KETERANGAN</b>&nbsp;&nbsp;&nbsp;
-                <b style="padding-left : 30px">O = OFF/LEPAS</b>&nbsp;&nbsp;&nbsp;
+          
         </div>
 
     </div>

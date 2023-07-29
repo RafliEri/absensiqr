@@ -145,7 +145,7 @@
                 <h5 class="widget-user-desc"></h5>
             </div>
             <div class="widget-user-image">
-                <img class="img-circle" src="<?php echo base_url() ?>assets/dist/img/logo.jpg" alt="User Avatar">
+                <img class="img-circle" src="<?php echo base_url() ?>assets/dist/img/logo1.png" alt="User Avatar">
             </div>
             <div class="box-footer">
                 <div class="row">

@@ -18,13 +18,6 @@
                                 <tbody>
                                     <tr>
                                         <td style='text-align:center;'>1</td>
-                                        <td style='text-align:center;'>Pengajar</td>
-                                        <td style="text-align:center" width="140px">
-                                            <?php echo anchor(site_url('presensi/read/P'), '<i class="fa fa-eye fa-lg"></i>&nbsp;&nbsp;Lihat', array('title' => 'detail', 'class' => 'btn btn-mdb-color ')); ?>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td style='text-align:center;'>2</td>
                                         <td style='text-align:center;'>Santri</td>
                                         <td style="text-align:center" width="140px">
                                             <?php echo anchor(site_url('presensi/read/S'), '<i class="fa fa-eye fa-lg"></i>&nbsp;&nbsp;Lihat', array('title' => 'detail', 'class' => 'btn btn-mdb-color ')); ?>
