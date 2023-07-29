@@ -38,7 +38,7 @@ class Dashboard extends CI_Controller
 			[
 				'box' 		=> 'light-blue',
 				'total' 	=> $this->dashboard->total('santri'),
-				'title'		=> 'Santri',
+				'title'		=> 'Siswa',
 				'icon'		=> 'user'
 			],
 			[

@@ -74,7 +74,7 @@
         <div class="col-md">
             <div class="box box-danger">
                 <div class="box-header with-border">
-                    <h3 class="box-title">Total santri Berdasarkan Jabatan</h3>
+                    <!-- <h3 class="box-title">Total Siswa Berdasarkan Jabatan</h3> -->
                     <div class="box-tools pull-right">
                         <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
                         </button>
@@ -139,7 +139,7 @@
         <div class="box box-widget widget-user">
             <div class="widget-user-header bg-blue-active">
                 <p style="text-align: center;">
-                    <span style="font-family: georgia, palatino; font-size: 15pt;">Selamat datang di Sistem Absensi TPQ Al Fatih</span>
+                    <span style="font-family: georgia, palatino; font-size: 15pt;">Selamat datang di Sistem Absensi MTsN 23 Jakarta</span>
                 </p>
                 <h3 class="widget-user-username"></h3>
                 <h5 class="widget-user-desc"></h5>
@@ -156,7 +156,7 @@
                     <div class="col-sm-4 border-right">
 
                         <center>
-                            <i>Sistem Absensi TPQ Al Fatih berbasis QR CODE</i><br>
+                            <i>Sistem Absensi MTsN 23 Jakarta</i><br>
                             <br>Halaman ini terbuka dalam
                             <strong>{elapsed_time}</strong> detik.
                         </center>

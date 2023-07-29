@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Absensi TPQ Al Fatih</title>
+    <title>Absensi MTsN 23 Jakarta</title>
     <link rel="stylesheet" href="<?= base_url('assets/plugins/'); ?>fontawesome/css/all.min.css" />
     <link rel="stylesheet" href="<?= base_url('assets/'); ?>plugins/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?= base_url('assets/'); ?>plugins/bootstrap/css/custom-button.min.css">
